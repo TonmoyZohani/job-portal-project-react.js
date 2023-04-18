@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "./Icons/accounts 1.png",
+    "title": "Account & Finance",
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "img": "./Icons/business 1.png",
+    "title": "Creative Design",
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "img": "./Icons/social-media 1.png",
+    "title": "Marketing & Sales",
+    "quantity": 2
+  },
+  {
+    "id": 4,
+    "img": "./Icons/chip 1.png",
+    "title": "Engineering Job",
+    "quantity": 15
+  }
+]
